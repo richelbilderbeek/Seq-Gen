@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/richelbilderbeek/Seq-Gen.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Seq-Gen)
+Build status: https://travis-ci.org/richelbilderbeek/Seq-Gen
 
 This package is the generic source-code version. This can be compiled
 and run on most UNIX/Linux/Mac OS X systems. It can also be compiled 
